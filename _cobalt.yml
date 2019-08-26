@@ -1,0 +1,19 @@
+site:
+  title: tildedocs
+  description: > 
+    A repository of learning resources related to public Unix servers and the
+    command line.
+  base_url: https://tilde.town/~benjaminwil/tildedocs/ 
+
+posts:
+  rss: rss.xml
+
+include_drafts: true
+
+template_extensions:
+  - md
+  - liquid
+  - html
+
+ignore:
+  - README.md
