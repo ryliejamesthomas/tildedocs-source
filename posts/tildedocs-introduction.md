@@ -1,8 +1,8 @@
 ---
-title: Introduction
+title: Tildedocs introduction
 layout: default.liquid
 is_draft: true
 ---
-# First test post
+# Introduction
 
 Welcome to the first post ever on cobalt.rs!
