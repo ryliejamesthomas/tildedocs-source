@@ -1,6 +1,6 @@
 site:
   title: tildedocs
-  description: > 
+  description: >
     A repository of learning resources related to public Unix servers and the
     command line.
   base_url: 'https://tilde.town/~benjaminwil/tildedocs/'
