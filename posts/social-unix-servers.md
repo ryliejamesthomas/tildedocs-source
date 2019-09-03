@@ -17,10 +17,11 @@ A server is a computer configured to accept connections from other computers.
 Configuration could involved editing a text file, clicking a few buttons,
 running a downloaded program, or many other ways. This is a very simplified
 definition, but understanding this concept will de-mystify this "server" word
-you keep hearing. You will hear the word "client" being thrown around in this
-document. A client is a computer that connects to a server, and sometimes even
-another client! For now, you can think of a client as a guest, and a server as a
-host.
+you keep hearing.
+
+You will hear the word "client" being thrown around in this document. A client
+is a computer that connects to a server, and sometimes even another client! For
+now, you can think of a client as a guest, and a server as a host.
 
 A server could be any machine, even a laptop. The laptop hardware may not
 be designed to handle a lot of connections from different computers, but it can
@@ -62,7 +63,25 @@ of computers that connect to each other.
 
 ## What is Unix?
 
-Coming soon!
+As Wikipedia puts it, "Unix is a family of multitasking, multiuser, computer
+operating systems that derive from the original AT&T Unix, development starting
+in the 1970s at the Bell Labs research center by Ken Thompson, Dennis Ritchie,
+and others."
+
+Let's slow down here, that was a lot.
+
+When people say Unix nowadays (2019 as I type this), they probably mean one of
+the many modern Unix-like operating systems, such as GNU/Linux [Note 1] or BSD
+(FreeBSD, OpenBSD, NetBSD).
+
+Forgot everything you just read? Just remember that Unix refers to one of the
+Unix-like operating systems mentioned above, and that an operating system allows
+your to control your computer.
+
+In this document, I'm going to use the GNU/Linux Unix-like operating system.
+
+Note 1: I understand that Linux is a kernel, and GNU is a set of tools that can
+interact with the Linux kernel, but that's a whole other discussion.
 
 ## What does "Social" mean in the context of Unix servers?
 
