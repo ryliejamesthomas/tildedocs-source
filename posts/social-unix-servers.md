@@ -18,7 +18,7 @@ Configuration could involved editing a text file, clicking a few buttons,
 running a downloaded program, or many other ways. This is a very simplified
 definition, but understanding this concept will de-mystify this "server" word
 you keep hearing. You will hear the word "client" being thrown around in this
-article. A client is a computer that connects to a server, and sometimes even
+document. A client is a computer that connects to a server, and sometimes even
 another client! For now, you can think of a client as a guest, and a server as a
 host.
 
