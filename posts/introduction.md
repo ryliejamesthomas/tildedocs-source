@@ -17,14 +17,14 @@ We started out as two technical writers who hung out on
 [tilde.town](https://tilde.town). We didn't know of each other's presence on
 tilde.town at first, but then when we found out we were both technical writers,
 and from Canada, we started to exchange ideas related to a project that could
-teach people about public Unix servers, the decentralized web, and the command
-line, regardless of their technical background. What you are currently reading
-is the start of that project.
+help people learn about social unix servers, the decentralized web, and the
+command line, regardless of their technical background. What you are currently
+reading is the start of that project.
 
 ## Reasoning
 
 By creating this project, we can combine our passion for technical writing,
-public Unix servers, the decentralized web, and the command line.
+social unix servers, the decentralized web, and the command line.
 
 ## Goals
 
