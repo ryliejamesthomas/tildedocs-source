@@ -58,7 +58,7 @@ Figure 2
 In Figure 2 above, computer A and computer B are both servers and clients at the
 same time, because they are both accepting connections from clients, and they
 both act as clients because they can also connect to each other! This is called
-Peer-to-Peer (P2P) networking. "Network" is just a fancy work for a collection
+Peer-to-Peer (P2P) networking. "Network" is just a fancy word for a collection
 of computers that connect to each other.
 
 ## What is Unix?
