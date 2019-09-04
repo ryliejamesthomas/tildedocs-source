@@ -17,7 +17,7 @@ A server is a computer configured to accept connections from other computers.
 Configuration could involved editing a text file, clicking a few buttons,
 running a downloaded program, or many other ways. This is a very simplified
 definition, but understanding this concept will de-mystify this "server" word
-you keep hearing.
+you keep hearing about.
 
 You will hear the word "client" being thrown around in this document. A client
 is a computer that connects to a server, and sometimes even another client! For
