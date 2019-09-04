@@ -1,3 +1,3 @@
 # Tildedocs
 
-A repository of learning resources related to public Unix servers and the command line.
+ A repository of learning resources related to social unix servers, the decentralized web, and the command line. 
