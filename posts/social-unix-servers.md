@@ -9,7 +9,7 @@ consists of the following sections:
 
 * What is a server?
 * What is Unix?
-* What does "Social" mean in the context of Unix servers?
+* What does "social" mean in the context of social Unix servers?
 
 ## What is a server?
 
@@ -71,18 +71,33 @@ and others."
 Let's slow down here, that was a lot.
 
 When people say Unix nowadays (2019 as I type this), they probably mean one of
-the many modern Unix-like operating systems, such as GNU/Linux [Note 1] or BSD
-(FreeBSD, OpenBSD, NetBSD).
+the many modern Unix-like operating systems that derived from the original AT&T
+Unix, such as GNU/Linux (See Note 1 below) or one of the BSDs (FreeBSD, OpenBSD,
+NetBSD).
 
 Forgot everything you just read? Just remember that Unix refers to one of the
 Unix-like operating systems mentioned above, and that an operating system allows
 your to control your computer.
 
-In this document, I'm going to use the GNU/Linux Unix-like operating system.
-
 Note 1: I understand that Linux is a kernel, and GNU is a set of tools that can
 interact with the Linux kernel, but that's a whole other discussion.
 
-## What does "Social" mean in the context of Unix servers?
+## What does "social" mean in the context of social Unix servers?
 
-Coming soon!
+The "social" here refers to how people socialize on Unix servers. This could be
+through message boards, real-time chats, email, games, and many more. Many of
+these mediums are only accessible within the server itself. This means that you
+couldn't, as an example, email people from anywhere outside of the server unless
+the server was configured to allow that. This would be called "local" email. So
+it would only allow users on that server (computer) to email other users.
+
+It seems limiting, but it is a great way to experience non-commercial digital
+mediums of social interactions that may otherwise be monitored or monetized
+without your knowing.
+
+As an example, [tilde.town](https://tilde.town) has a game called
+[`botany`](https://github.com/jifunks/botany) where the player can grow a
+virtual plant. The user is responsible for watering their plant, but users can
+also water each other's plants. tilde.town users can only play this game with
+other tilde.town users if they are connected to tilde.town (a server).
+
