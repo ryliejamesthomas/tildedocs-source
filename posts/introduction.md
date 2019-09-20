@@ -16,7 +16,7 @@ document. This document consists of the following sections:
 We started out as two technical writers who hung out on
 [tilde.town](https://tilde.town). We didn't know of each other's presence on
 tilde.town at first, but then when we found out we were both technical writers,
-and from Canada, we started to exchange ideas related to a project that could
+and from Canada. We started to exchange ideas related to a project that could
 help people learn about social unix servers, the decentralized web, and the
 command line, regardless of their technical background. What you are currently
 reading is the start of that project.
