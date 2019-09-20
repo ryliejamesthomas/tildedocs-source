@@ -32,9 +32,8 @@ original AT&T Unix, such as:
 * and many more
 
 So, Unix is a family of similar operating systems, and an operating system
-allows you to control your computer. Currently, you are probably already
-familiar with an operating system.  Windows and macOS are two popular ones right
-now.
+allows you to control your computer. You might already be familiar with
+operating systems, such as Windows and macOS.
 
 ---
 
@@ -74,7 +73,7 @@ computer B to communicate with computer C (See Figure 1 below).
 
 ```
 +------------+          +------------+            +------------+
-|            |--------->|            |-----------<|            |
+|            |--------->|            |----------->|            |
 | computer A |          | computer B |            | computer C |
 |            |<---------|            |<-----------|            |
 +------------+          +------------+            +------------+
