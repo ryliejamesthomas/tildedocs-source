@@ -33,7 +33,7 @@ original AT&T Unix, such as:
 
 So, Unix is a family of similar operating systems, and an operating system
 allows you to control your computer. You might already be familiar with
-operating systems, such as Windows and macOS.
+operating systems such as Windows and macOS.
 
 ---
 
