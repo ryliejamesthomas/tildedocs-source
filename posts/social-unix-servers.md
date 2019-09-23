@@ -37,9 +37,11 @@ original AT&T Unix, such as:
 
 ---
 
-<span id="1">[1]:</span> I understand that Linux is a kernel, and GNU is a set
-of tools that can interact with the Linux kernel, but that's a whole other
-discussion.
+<span id="1">[1]:</span> Linux is a kernel and GNU is a set of tools that can
+interact with the Linux kernel, but these would need a whole other article to
+understand them better. Many people refer to these two things as an operating
+system.
+
 <span id="2">[2]:</span> A distribution of GNU/Linux means that the operating
 system comes with certain default settings, such as programs available,
 security, desktop graphics, etc.
