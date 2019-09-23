@@ -21,24 +21,28 @@ and others."
 
 Okay, let's slow down here, that was a lot of jargon.
 
+To simply put it, an operating system allows you to control your computer. Some
+popular operating systems, as of 2019, are Microsoft Windows, macOS, Android,
+iOS, and Ubuntu (A GNU/Linux [[1]](#1) distribution [[2]](#2)).
+
 To simplify things, nowadays (2019 as I write this), when people say Unix, they
 probably mean one of the Unix-like operating systems that derived from the
 original AT&T Unix, such as:
 
-* GNU/Linux [[1]](#1)
+* GNU/Linux
 * FreeBSD
 * OpenBSD
 * NetBSD
 * and many more
 
-So, Unix is a family of similar operating systems, and an operating system
-allows you to control your computer. You might already be familiar with
-operating systems such as Windows and macOS.
-
 ---
 
-<span id="1">[1]:</span> I understand that Linux is a kernel, and GNU is a set of tools that can
-interact with the Linux kernel, but that's a whole other discussion.
+<span id="1">[1]:</span> I understand that Linux is a kernel, and GNU is a set
+of tools that can interact with the Linux kernel, but that's a whole other
+discussion.
+<span id="2">[2]:</span> A distribution of GNU/Linux means that the operating
+system comes with certain default settings, such as programs available,
+security, desktop graphics, etc.
 
 ## Servers and clients
 
@@ -87,7 +91,7 @@ through:
 
 * Message boards
 * Real-time chat
-* Local [[2]](#2) Email
+* Local [[3]](#3) Email
 * Games
 * and many more.
 
@@ -107,7 +111,7 @@ are clients.
 
 ---
 
-<span id="2">[2]:</span> The word "local" in this context refers to user-to-user
+<span id="3">[3]:</span> The word "local" in this context refers to user-to-user
 emails on a server, rather than communicating with external email services, such
 as [Protonmail](https://protonmail.com). "Local" is just a fancy word people use
 to refer to something that doesn't leave or connect to another computer.
