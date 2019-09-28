@@ -70,7 +70,7 @@ hardware or software.
 An example of a client could be your internet browser, which connects to a
 social media website (a server).
 
-## A common server-client setup
+### A common server-client setup
 
 One kind of server-client setup could involved three computers: computer A,
 computer B, and computer C. Let's pretend computer B's settings have been
