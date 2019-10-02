@@ -3,13 +3,12 @@ title: Social Unix servers
 layout: default.liquid
 ---
 
-This document will teach you what Social Unix servers are.  Users without a
+This document will teach you about Social Unix servers. Users without a
 technical background will benefit the most from this document. This document
 consists of the following sections:
 
 * What is Unix?
 * Servers and clients
-* A common server-client setup
 * What does "social" mean in the context of social Unix servers?
 
 ## What is Unix?
